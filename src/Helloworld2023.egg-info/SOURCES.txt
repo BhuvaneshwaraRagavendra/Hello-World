@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/Helloworld2023.egg-info/PKG-INFO
+src/Helloworld2023.egg-info/SOURCES.txt
+src/Helloworld2023.egg-info/dependency_links.txt
+src/Helloworld2023.egg-info/top_level.txt
+src/mypackage/__init__.py
+src/mypackage/main.py
