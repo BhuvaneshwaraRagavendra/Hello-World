@@ -9,9 +9,9 @@ Print hello world
 ```
 main.mypackage()
 Hello World
-'''
+```
 Print fun function
-'''
+```
 mypackage.main.mypackage.fun()
 This is fun Part
-'''
+```

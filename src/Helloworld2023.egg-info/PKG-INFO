@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: Helloworld2023
-Version: 0.0.3
+Version: 0.0.5
 Summary: A small example package
 Home-page: https://github.com/BhuvaneshwaraRagavendra/Hello-World
-Author: Bhuvaneshwaran
-Author-email: Bhuvaneshwararagavendra@gmail.com
+Author: i18nsolutionspy
+Author-email: i18nsolutionspy@gmail.com
 Project-URL: Bug Tracker, https://github.com/BhuvaneshwaraRagavendra/Hello-World/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
@@ -23,9 +23,9 @@ Print hello world
 ```
 main.mypackage()
 Hello World
-'''
+```
 Print fun function
-'''
+```
 mypackage.main.mypackage.fun()
 This is fun Part
-'''
+```
